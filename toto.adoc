@@ -1,7 +1,7 @@
 Asciidoc cheatsheet for GitHub
 ==============================
 :toc:
-:toc-placement: right
+:toc-placement: auto
 :toclevels: 2
 :showtitle:
 :Some attr: Some value
