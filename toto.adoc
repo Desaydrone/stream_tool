@@ -1,3 +1,14 @@
+Asciidoc cheatsheet for GitHub
+==============================
+:toc:
+:toc-placement: preamble
+:toclevels: 1
+:showtitle:
+:Some attr: Some value
+
+// Need some preamble to get TOC:
+{empty}
+
 = Titre 1
 
 poue tpouet tralalal
