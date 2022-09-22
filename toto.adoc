@@ -11,9 +11,14 @@ Asciidoc cheatsheet for GitHub
 
 = Titre 1
 
+== Titre 2
+
+zero blabla zero....
+
+=== titre 3
 poue tpouet tralalal
 
-== TItre 3
+== TItre 2
 
 IMPORTANT: *ceci c'est de la balle wesh bro* mais c'est pas fini non nonon
 
