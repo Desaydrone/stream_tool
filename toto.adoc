@@ -1,6 +1,6 @@
 Asciidoc cheatsheet for GitHub
 ==============================
-:toc: left
+:toc: right
 :toclevels: 2
 :showtitle:
 :Some attr: Some value
